@@ -1,0 +1,55 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #2d628d;
+}
+
+table{
+    border-radius: 10px;
+    border-spacing: 0;
+    border: 1px solid #2d628d;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+th, td{
+    padding: 10px 20px;
+}
+
+thead{
+    text-align: center;
+    height: 80px;
+    background-color: #2d628d;
+    border-top-right-radius: 50%;
+}
+
+thead tr th{
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+thead tr th{
+    text-align: center;
+    color: #fff;
+    font-size: 22px;
+}
+
+.second th{
+    background-color: rgb(200, 223, 226);
+}
+
+img{
+    width: 70px;
+    border-radius: 50%;
+}
+
+.menu th{
+    background-color: rgb(200, 223, 226);
+    border-spacing: 0;
+    padding: 10px;
+}
+
+p{
+    display: inline-block;
+    width: 300px;
+    text-align: start;
+}
